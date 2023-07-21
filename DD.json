@@ -20,27 +20,19 @@
 ,
 {
          "name": "VIP-TH-Server01-TRUE",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
+         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/VIP-TH-TRUE"
       }
 ,
 {
          "name": "VIP-TH-Server02-DTAC",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
+         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/VIP-TH-DTAC"
       }
 ,
 {
          "name": "VIP-TH-Server03-AIS",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
+         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/VIP-TH-AIS"
       }
  
-
-   ],
-"message":"
- 👑อัพเดต👑
- 1. BEAMVPN📅
- 2. ซื้อบัญชีติด
- 
-
    ],
 "message":"
  👑อัพเดต👑
@@ -56,5 +48,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
