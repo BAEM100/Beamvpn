@@ -4,18 +4,18 @@
 
 
 {
-         "name": "VIP-TH-VServer01-WiFi",
-         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/beam0.ovpn"
+         "name": "VIP-TH-VServer01-TRUE",
+         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-TRUE"
       }
 ,
 {
          "name": "VIP-TH-Server02-DTAC",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
+         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-DTAC"
       }
 ,
 {
          "name": "VIP-TH-Server03-AIS",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
+         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-AIS"
       }
 ,
 {
@@ -39,5 +39,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
