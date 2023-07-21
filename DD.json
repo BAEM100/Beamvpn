@@ -4,17 +4,17 @@
 
 
 {
-         "name": "TH-VServer01-TRUE",
+         "name": "TRUE-TH-01-FREE",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-TRUE"
       }
 ,
 {
-         "name": "TH-Server02-DTAC",
+         "name": "DTAC-TH-02-FREE",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-DTAC"
       }
 ,
 {
-         "name": "TH-Server03-AIS",
+         "name": "AIS-TH-03-FREE",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-AIS"
       }
 ,
@@ -48,5 +48,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":4
+   "version":5
 }
