@@ -4,25 +4,42 @@
 
 
 {
-         "name": "VIP-TH-VServer01-TRUE",
+         "name": "TH-VServer01-TRUE",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-TRUE"
       }
 ,
 {
-         "name": "VIP-TH-Server02-DTAC",
+         "name": "TH-Server02-DTAC",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-DTAC"
       }
 ,
 {
-         "name": "VIP-TH-Server03-AIS",
+         "name": "TH-Server03-AIS",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-AIS"
       }
 ,
 {
-         "name": "VIP-TH-Server04-TRUE",
+         "name": "VIP-TH-Server01-TRUE",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
       }
+,
+{
+         "name": "VIP-TH-Server02-DTAC",
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
+      }
+,
+{
+         "name": "VIP-TH-Server03-AIS",
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
+      }
+ 
 
+   ],
+"message":"
+ 👑อัพเดต👑
+ 1. BEAMVPN📅
+ 2. ซื้อบัญชีติด
+ 
 
    ],
 "message":"
