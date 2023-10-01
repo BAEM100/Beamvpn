@@ -4,7 +4,7 @@ dev tun
 proto tcp
 remote 127.0.0.1 999 udp
 remote 103.114.200.164:443@app.dtac.co.th
-http-proxy 103.114.200.164  8080
+http-proxy 45.130.141.206  8080
 port 443
 sndbuf 0
 rcvbuf 0
