@@ -4,7 +4,7 @@ dev tun
 proto tcp
 remote 127.0.0.1 999 udp
 remote 127.0.0.1:443@https://www.speedtest.net
-http-proxy 45.130.141.103 8080
+http-proxy 45.130.141.206 8080
 port 443
 sndbuf 0
 rcvbuf 0
