@@ -22,8 +22,8 @@ setenv opt block-outside-dns
 key-direction 1
 verb 3
 <auth-user-pass>
-Beam01
-Beam01
+Beamree
+Beamree
 </auth-user-pass>
 keepalive 10 120
 float
