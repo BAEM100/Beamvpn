@@ -5,39 +5,29 @@
 
 {
          "name": "TRUE-TH-01-FREE",
-         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/Server1_BEAMDEV-True_Youtube.ovpn"
+         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/SERVER14-True.Youtube.ovpn"
       }
 ,
 {
-         "name": "DTAC-TH-02-FREE",
-         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-DTAC"
-      }
-,
-{
-         "name": "AIS-TH-03-FREE",
+         "name": "AIS-TH-02-FREE",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/SERVER14-Ais.Play.ovpn"
       }
 ,
 {
-         "name": "VIP-TH-Server01-TRUE",
+         "name": "VIP-TH-01-TRUE",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/VIP-TH-TRUE"
       }
 ,
 {
-         "name": "VIP-TH-Server02-DTAC",
-         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/VIP-TH-DTAC"
-      }
-,
-{
-         "name": "VIP-TH-Server03-AIS",
+         "name": "VIP-TH-02-AIS",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/VIP-TH-AIS"
       }
  
    ],
-"message":"\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ นี้ด้วยครับ\n คอนฟิกเวอร์ชั่น: 1.3.5 \nอัพเดทเมื่อวันที่: 16/12/2023\n \nผู้พัฒนาแอพ:BEAMDEV\n  ",
+"message":"\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ นี้ด้วยครับ\n คอนฟิกเวอร์ชั่น: 1.3.5 \nอัพเดทเมื่อวันที่: 20/12/2023\n \nผู้พัฒนาแอพ:BEAMDEV\n  ",
 
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
 
-   "version": 8.0
+   "version": 9.0
 
 }
