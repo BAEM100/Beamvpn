@@ -14,6 +14,11 @@
       }
 ,
 {
+         "name": "DTAC-TH-02-FREE",
+         "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/SERVER14-Dtac.Shopee.ovpn"
+      }
+,
+{
          "name": "VIP-TH-01-TRUE",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/VIP-TH-TRUE"
       }
@@ -28,6 +33,6 @@
 
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
 
-   "version": 9.0
+   "version": 10.0
 
 }
