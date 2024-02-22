@@ -14,7 +14,7 @@
       }
 ,
 {
-         "name": "GAME-DTAC-TH-02-FREE",
+         "name": "GAME-DTAC-02",
          "url": "https://raw.githubusercontent.com/BAEM100/Beamvpn/main/TH-DTAC"
       }
 ,
@@ -33,6 +33,6 @@
 
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
 
-   "version": 13
+   "version": 14.0
 
 }
